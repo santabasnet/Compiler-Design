@@ -7,3 +7,6 @@ work/Lex/*.iml
 work/ExpressionParser/target/*
 work/ExpressionParser/.idea/*
 work/ExpressionParser/*.iml
+work/CommentsRemover/target/*
+work/CommentsRemover/.idea/*
+work/CommentsRemover/*.iml
