@@ -4,3 +4,6 @@ work/dfa/*.iml
 work/Lex/target/*
 work/Lex/.idea/*
 work/Lex/*.iml
+work/ExpressionParser/target/*
+work/ExpressionParser/.idea/*
+work/ExpressionParser/*.iml
