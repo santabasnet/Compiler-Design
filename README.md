@@ -1,6 +1,6 @@
 # Compiler Design
 
-Undergraduate course materials for the first year Engineering and IT students.
+Undergraduate course materials of Compiler Design for the elective course of final year Engineering and IT students.
 
 ## 1. Lecture Materials
   Contains all the slides and the examples used in the lecture class.
