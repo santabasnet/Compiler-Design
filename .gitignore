@@ -1,3 +1,6 @@
 work/dfa/target/*
 work/dfa/.idea/*
 work/dfa/*.iml
+work/Lex/target/*
+work/Lex/.idea/*
+work/Lex/*.iml
