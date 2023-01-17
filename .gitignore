@@ -10,3 +10,6 @@ work/ExpressionParser/*.iml
 work/CommentsRemover/target/*
 work/CommentsRemover/.idea/*
 work/CommentsRemover/*.iml
+work/recursivedescent/target/*
+work/recursivedescent/.idea/*
+work/recursivedescent/*.iml
