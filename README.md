@@ -19,3 +19,7 @@ int main(){
   return (0);
 }
 ```
+
+## 3. Class Work: Live
+
+A fully implemented parser in Java includes a tokenizer, LL(1) grammar representation, First/Follow set generation, and a parsing table. https://github.com/santabasnet/Compiler-Design/tree/main/work/ExpressionParser 
